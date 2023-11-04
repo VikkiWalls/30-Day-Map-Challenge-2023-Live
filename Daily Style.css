@@ -257,7 +257,7 @@ text-align: center;
   -o-border-radius: 30px;
   }
 
-  .greenmap {
+  .plainmaptemp {
     position:relative;
     margin-left: auto;
     margin-right: auto;
@@ -268,19 +268,19 @@ text-align: center;
     -o-transform: translate(5%, 0%);
 }
 
-.plainmaptemp {
+/* .plainmaptemp {
   position:static;
   left: 50%;
   top: 50%;
   transform: translate(12%, 0%);
   width: xxx;
-  /*Anywidthwillbefine*/height: xxx ;
-  /*Anyheightwillbefine*/-webkit-transform: translate(12%, 0%);
+  Anywidthwillbefine height: xxx ;
+  /*Anyheightwillbefine-webkit-transform: translate(12%, 0%);
   -moz-transform: translate(12%, 0%);
   -ms-transform: translate(12%, 0%);
   -o-transform: translate(12%, 0%);
   -webkit-transform: translate(12%, 0%);
-}
+}*/
 
 .music {
   margin: 8px -16px;
