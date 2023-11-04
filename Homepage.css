@@ -190,13 +190,18 @@
   background-color: #44344c; /* Blue */
 }
 
-#mastodon {
+#linkedin {
   top: 140px;
+  background-color: #44344c; /* Blue */
+}
+
+#mastodon {
+  top: 200px;
   background-color: #44344c; /* Red */
 }
 
 #x {
-    top: 200px;
+    top: 260px;
     background-color: #44344c; /* Red */
   }
   

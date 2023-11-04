@@ -169,17 +169,21 @@ border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right
     top: 80px;
     background-color: #44344c; /* Blue */
   }
+
+  #linkedin {
+    top: 140px;
+    background-color: #44344c; /* Blue */
+  }
   
   #mastodon {
-    top: 140px;
+    top: 200px;
     background-color: #44344c; /* Red */
   }
   
   #x {
-      top: 200px;
+      top: 260px;
       background-color: #44344c; /* Red */
     }
-    
 
 .block {
 display: block;
