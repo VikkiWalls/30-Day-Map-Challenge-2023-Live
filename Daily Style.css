@@ -257,7 +257,22 @@ text-align: center;
   -o-border-radius: 30px;
   }
 
-  .plainmaptemp {
+  .StaticMap{
+    position: relative;
+    width: 900px;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%  ;
+    -webkit-border-radius: 10%  ;
+    -moz-border-radius: 10%  ;
+    -ms-border-radius: 10%  ;
+    -o-border-radius: 10%  ;
+}
+
+
+  /* .plainmaptemp {
     position:relative;
     margin-left: auto;
     margin-right: auto;
@@ -268,7 +283,7 @@ text-align: center;
     -moz-transform: translate(5%, 0%);
     -ms-transform: translate(5%, 0%);
     -o-transform: translate(5%, 0%);
-}
+} */
 
 /* .plainmaptemp {
   position:static;
