@@ -271,6 +271,19 @@ text-align: center;
     -o-border-radius: 10%  ;
 }
 
+.StaticMapPoly{
+  position: relative;
+  /* width: 900px;
+  height: 700px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%  ;
+  -webkit-border-radius: 10%  ;
+  -moz-border-radius: 10%  ;
+  -ms-border-radius: 10%  ;
+  -o-border-radius: 10%  ;
+}
 
   /* .plainmaptemp {
     position:relative;
