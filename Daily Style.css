@@ -273,8 +273,8 @@ text-align: center;
 
 .StaticMapPoly{
   position: relative;
-  /* width: 900px;
-  height: 700px; */
+  width: 55%;
+  height: 55%;
   display: block;
   margin-left: auto;
   margin-right: auto;
