@@ -108,7 +108,18 @@ h1 {
   padding: 8px;
 }
 
+.row,
+.row > .column1 {
+  padding: 8px;
+}
+
 /* Create four equal columns that floats next to each other */
+.column1 {
+  float: left;
+  width: 25%;
+}
+
+/* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
