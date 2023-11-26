@@ -371,6 +371,20 @@ text-align: center;
   -o-border-radius: 1%  ;
 }
 
+.StaticMap7{
+  position: relative;
+  /* width: 1421px;
+  height: 814px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1%  ;
+  -webkit-border-radius: 1%  ;
+  -moz-border-radius: 1%  ;
+  -ms-border-radius: 1%  ;
+  -o-border-radius: 1%  ;
+}
+
   /* .plainmaptemp {
     position:relative;
     margin-left: auto;
