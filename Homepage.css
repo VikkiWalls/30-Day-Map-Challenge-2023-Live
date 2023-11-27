@@ -199,9 +199,13 @@
   top: 200px;
   background-color: #44344c; /* Red */
 }
+  
+#threads {
+  top: 260px;
+  background-color: #44344c; /* Red */
+}
 
 #x {
-    top: 260px;
+    top: 320px;
     background-color: #44344c; /* Red */
   }
-  
